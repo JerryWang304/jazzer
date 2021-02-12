@@ -17,7 +17,7 @@ are also available. At the moment Jazzer is only available for x64 Linux.
 
 Jazzer has the following dependencies when being built from source:
 
-* JDK 8 or later (e.g. [OpenJDK](https://openjdk.java.net/))
+* JDK 9 or later (e.g. [OpenJDK](https://openjdk.java.net/))
 * [Clang](https://clang.llvm.org/) 9.0 or later (using a recent version is strongly recommended)
 
 Jazzer uses [Bazelisk](https://github.com/bazelbuild/bazelisk) to automatically download and install Bazel. Building

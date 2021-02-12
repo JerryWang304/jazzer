@@ -7,3 +7,4 @@ build --action_env=CC=clang
 
 # Java
 build --java_language_version=8
+build --tool_java_language_version=9
